@@ -1,0 +1,16 @@
+{
+  "name": "employ-review-system",
+  "version": "1.0.0",
+  "description": "this is a employ review system where every employ can submit a feedback form for other employs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "employ",
+    "review",
+    "management"
+  ],
+  "author": "akshat",
+  "license": "ISC"
+}
