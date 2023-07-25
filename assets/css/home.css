@@ -1,0 +1,16 @@
+#home-sign-section{
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    border: 1px solid red;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.sign-box{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
