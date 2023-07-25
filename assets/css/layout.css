@@ -19,7 +19,7 @@ header{
     margin: auto;
     height: 70px;
     width: 60%;
-    background: linear-gradient(45deg ,rgba(129, 108, 249, 0.466) 60% ,rgba(134, 20, 255, 0.424) 100%);
+    background: linear-gradient(45deg ,rgba(93, 70, 220, 0.886) 60% ,rgba(106, 15, 203, 0.824) 100%);
     border-radius:9px;
     display: flex;
     flex-wrap: wrap;
@@ -30,7 +30,7 @@ header{
 }
 header:hover{
     transform: scale(1.1);
-    background: linear-gradient(45deg ,rgba(110, 88, 233, 0.563) 60% ,rgba(123, 14, 239, 0.498) 100%);
+    background: linear-gradient(45deg ,rgba(72, 51, 193, 0.986) 60% ,rgba(87, 8, 172, 0.924) 100%);
     box-shadow: 0px 0px 15px 5px rgb(226, 200, 255);
 }
 #sign ul li{

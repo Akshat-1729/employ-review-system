@@ -4,6 +4,7 @@ const homeController=require('../controllers/home_controller');
 console.log('router loaded');
 router.get('/',homeController.home);
 router.use('/admin',require('./admin'));
+router.use('/employee',require('./employe'));
 
 
 module.exports=router;
